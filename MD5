@@ -1,0 +1,9 @@
+78d38b8f94d3e8706ba5da3a8439fd9c *DESCRIPTION
+db91ab1c2caaedc12d727eeea5f7d189 *NAMESPACE
+622ebcf888901f40c2a39212cc8f9f52 *R/kms.R
+335da5fa76d0fd3744f971cbc3f49f1b *R/zzz.R
+7d265181714ba7b05f84844091c145ee *README.md
+0dbdbd3adfca60806fc6fbbe1e54289c *man/AWR.KMS-package.Rd
+4205a9aa5dbd1e89a11a14f871507401 *man/kms_decrypt.Rd
+ead1f33f9ca02f98801cd888c4fdce3a *man/kms_encrypt.Rd
+c6ed7b3827d032d9c5519b1306aac5b1 *man/kms_generate_data_key.Rd
